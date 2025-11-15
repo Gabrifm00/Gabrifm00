@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner especialista en Ciber" src="https://github.com/user-attachments/assets/4b50fd92-6f94-4f48-904e-2e78873d3963" />
+![Logo](https://github.com/Gabrifm00/proyects-store/blob/main/assets/GIFlogoGFM1.gif?raw=true)
 
 - 👋 Hi, I’m @Gabrifm00
 - 👀 I’m interested in cybersecurity
@@ -12,7 +12,7 @@
 <!---[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)--->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandez22)
 
-![Logo](https://github.com/Gabrifm00/proyects-store/blob/main/assets/GIFlogoGFM1.gif?raw=true)
+
 <!---
 Gabrifm00/Gabrifm00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
